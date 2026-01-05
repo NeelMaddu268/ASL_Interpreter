@@ -20,9 +20,10 @@ You'll need **Python 3.8** (or a compatible environment).
 
 ### Installation
 
+
 1. Clone the repo:
    ```bash
-   git clone https://github.com/NeelMaddu268/ASL-Interpreter.git
+   git clone [https://github.com/NeelMaddu268/ASL-Interpreter.git](https://github.com/NeelMaddu268/ASL_Interpreter.git)
    cd asl-interpreter
    ```
 
