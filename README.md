@@ -24,7 +24,7 @@ You'll need **Python 3.8** (or a compatible environment).
 1. Clone the repo:
    ```bash
    git clone https://github.com/NeelMaddu268/ASL_Interpreter.git
-   cd asl-interpreter
+   cd ASL_Interpreter
    ```
 
 2. Install dependencies:
